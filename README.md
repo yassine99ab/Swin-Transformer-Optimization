@@ -1,4 +1,4 @@
-# Swin Transformer on CIFAR-10
+# Swin Transformer Optimization on CIFAR-10
 
 This Project deals with optimization of the last layer weights via Genetic Algorithms or Hybrid Algorithms such as Cuckoo Search + GA with SAA and CMA_ES + DE.
 The following code was used to generate the log file of result and stored the result in the .txt files and plotting was done via visual.py
